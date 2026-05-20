@@ -220,4 +220,6 @@ CLIENT_URL=http://localhost:3000
 
 ---
 
-Built with ❤️ — MediCore HMS v1.0
+Built with ❤️ 
+Author
+sai charani
