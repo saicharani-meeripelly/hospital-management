@@ -221,5 +221,5 @@ CLIENT_URL=http://localhost:3000
 ---
 
 Built with ❤️ 
-Author
-sai charani
+-Author
+-sai charani
